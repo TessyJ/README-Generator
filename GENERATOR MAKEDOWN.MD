@@ -1,8 +1,8 @@
  
-  # scheduler
+  # generator makedown
   
   ## Description
-  schedules school exam time table
+  descripation
   
   ## Table of Contents
   - [Installation](#installation)
@@ -13,22 +13,22 @@
   - [Questions](#questions)
   
   ## Installation
-  npm install
+  package on npm
   
   ## Usage
-  noe for now
+  to generatrate README
   
   ## Contributing
-  none
+  MIT Licensed
   
   ## Tests
   npm run test
 
   ## License
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]  https://opensource.org/licenses/Apache-2.0 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]  https://opensource.org/licenses/MIT 
   
   ## Questions
   If you have any questions or comments, please contact me using the following methods:
-  - [GitHub](https://github.com/codewarrior4)
-  - Email: mayowatope119@gmail.com
+  - [GitHub](https://github.com/tessyj)
+  - Email: olusogabolaji@gmail.com
   

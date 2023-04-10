@@ -1,8 +1,8 @@
  
-  # s
+  # generate Readme
   
   ## Description
-  s
+  question
   
   ## Table of Contents
   - [Installation](#installation)
@@ -13,22 +13,22 @@
   - [Questions](#questions)
   
   ## Installation
-  s
+  npm installer
   
   ## Usage
-  s
+  question
   
   ## Contributing
-  s
+  question
   
   ## Tests
-  s
+  question
 
   ## License
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]  https://www.gnu.org/licenses/gpl-3.0 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]  https://opensource.org/licenses/MIT 
   
   ## Questions
   If you have any questions or comments, please contact me using the following methods:
-  - [GitHub](https://github.com/codewarrior4)
-  - Email: mayowatope119@gmail.com
+  - [GitHub](https://github.com/TessyJ)
+  - Email: Theresabj
   
