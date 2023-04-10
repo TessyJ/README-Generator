@@ -18,7 +18,7 @@ const questions = [
   {
     type: "input",
     message: "Please provide an installation instructions for this project",
-    name: "installaton",
+    name: "installation",
   },
   {
     type: "input",
@@ -33,19 +33,37 @@ const questions = [
   {
     type: "input",
     message: "Please provide the test instructions for this project",
-    name: "test",
+    name: "tests",
   },
   {
     type: "input",
     message: "Please provide the questions that may be asked this project",
     name: "questions",
   },
+  {
+    type: "list",
+    message: "Please choose a license:",
+    name: "license",
+    choices: ["MIT", "Apache", "GPL", "BSD", "None"],
+  },
+
+
+  {
+    type: "input",
+    message: "Please provide your GitHub username:",
+    name: "github",
+  },
+  {
+    type: "input",
+    message: "Please provide your email address:",
+    name: "email",
+  },
 ];
 
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName,generateMarkdown(data),(err)=>{
+    fs.writeFile(fileName.toUpperCase(),generateMarkdown(data),(err)=>{
         (err) ? console.log(err) : console.log('Readme generated')
     })
 }
