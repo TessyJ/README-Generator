@@ -35,6 +35,11 @@ const questions = [
     message: "Please provide the test instructions for this project",
     name: "test",
   },
+  {
+    type: "input",
+    message: "Please provide the questions that may be asked this project",
+    name: "questions",
+  },
 ];
 
 
