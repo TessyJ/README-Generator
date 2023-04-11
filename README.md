@@ -22,4 +22,8 @@ A Links in the Table of Contents to the corresponding section of the README pres
 
 # The walkthrough video link
 
+https://drive.google.com/file/d/11xvedGJwjC1xdxSc-ZLb7MXFR4OF3hAh/view
+
 # Screen Shot
+
+<img width="1709" alt="Screenshot1" src="https://tessyj.github.io/README-Generator/images/shot1.png"> <br> <br>
