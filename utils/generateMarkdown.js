@@ -1,4 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+//  Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   let licenseBadge;
@@ -28,10 +28,10 @@ function renderLicenseBadge(license) {
   return licenseBadge;
 }
 
-// TODO: Create a function that returns the license link
+// Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  let licenseLink; 
+  let licenseLink;
   switch (license) {
     case "MIT":
       licenseLink = "https://opensource.org/licenses/MIT";
@@ -52,13 +52,13 @@ function renderLicenseLink(license) {
   return licenseLink;
 }
 
-// TODO: Create a function that returns the license section of README
+//  Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  return renderLicenseBadge(license)+ ' '+renderLicenseLink(license)
+  return renderLicenseBadge(license) + " " + renderLicenseLink(license);
 }
 
-// TODO: Create a function to generate markdown for README
+//  Create a function to generate markdown for README
 function generateMarkdown(answers) {
   return ` 
   # ${answers.title}
@@ -94,7 +94,6 @@ function generateMarkdown(answers) {
   - [GitHub](https://github.com/${answers.github})
   - Email: ${answers.email}
   `;
-  
 }
 
 module.exports = generateMarkdown;

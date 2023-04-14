@@ -16,10 +16,10 @@
   To generate a README, run node index.js from the inside folder
   
   ## Usage
-  You can use the application to build well-designed and detailed README files for github repo
+  You can use the application to build well-desiged and detailed README files for Github repo
   
   ## Contributing
-  Clone and commits to repo
+  Clone and coomits to repo
   
   ## Tests
   npm run test
@@ -29,6 +29,6 @@
   
   ## Questions
   If you have any questions or comments, please contact me using the following methods:
-  - [GitHub](https://github.com/https://github.com/TessyJ)
+  - [GitHub](https://github.com/TessyJ)
   - Email: olusogabolaji@gmail.com
   

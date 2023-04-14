@@ -22,8 +22,7 @@ A Links in the Table of Contents to the corresponding section of the README pres
 
 # The walkthrough video link
 
-https://drive.google.com/file/d/15KVlxTw5UeCn-S_bz2PulaQtb-rrZwCN/view
-
+https://drive.google.com/file/d/1IrLLOAD1ShduImvLpgLu77RL7hp7bS4x/view
 # Screen Shot
 
 ![screenshot1](images/shot1.png)
